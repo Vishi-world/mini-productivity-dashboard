@@ -18,6 +18,5 @@ This project is a small tool to help you keep track of your daily tasks and stay
 
 Feel free to suggest improvements or report problems!
 
--
 
 Created by Vishakha Khilwani
